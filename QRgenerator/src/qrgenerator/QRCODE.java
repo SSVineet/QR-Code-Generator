@@ -168,8 +168,8 @@ public class QRCODE extends javax.swing.JFrame {
             barcode.setTopMargin(3);
             barcode.setRightMargin(3);
             barcode.setLeftMargin(3);
-            barcode.setX(10);
-            barcode.setY(10);
+            barcode.setX(2);
+            barcode.setY(2);
             barcode.setBottomMargin(3);
           
           
